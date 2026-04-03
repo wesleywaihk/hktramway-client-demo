@@ -2,4 +2,4 @@
 2:I[34292,["/hktramway-client-demo/_next/static/chunks/da65c81d0e3190e7.js","/hktramway-client-demo/_next/static/chunks/9b71674372366c11.js"],"default"]
 3:I[26025,["/hktramway-client-demo/_next/static/chunks/b5ad4a33da326ef9.js","/hktramway-client-demo/_next/static/chunks/051a7300a3aa171c.js"],"default"]
 4:I[64079,["/hktramway-client-demo/_next/static/chunks/b5ad4a33da326ef9.js","/hktramway-client-demo/_next/static/chunks/051a7300a3aa171c.js"],"default"]
-0:{"buildId":"zoY8BUWUOQEofCo31-KpB","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"locale":"zh-HK","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"AH1Golx0ow46rL2UdavhO","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"locale":"zh-HK","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"loading":null,"isPartial":false}
