@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[26025,["/hktramway-client-demo/_next/static/chunks/b5ad4a33da326ef9.js","/hktramway-client-demo/_next/static/chunks/051a7300a3aa171c.js"],"default"]
-3:I[64079,["/hktramway-client-demo/_next/static/chunks/b5ad4a33da326ef9.js","/hktramway-client-demo/_next/static/chunks/051a7300a3aa171c.js"],"default"]
-0:{"buildId":"AH1Golx0ow46rL2UdavhO","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[15592,["/hktramway-client-demo/_next/static/chunks/20a702034cba8317.js","/hktramway-client-demo/_next/static/chunks/11c55493014e558b.js","/hktramway-client-demo/_next/static/chunks/6b5757e0906825a7.js","/hktramway-client-demo/_next/static/chunks/1fc7027d976a3d95.js","/hktramway-client-demo/_next/static/chunks/5f14956a42ad600f.js"],"default"]
+3:I[10124,["/hktramway-client-demo/_next/static/chunks/20a702034cba8317.js","/hktramway-client-demo/_next/static/chunks/11c55493014e558b.js","/hktramway-client-demo/_next/static/chunks/6b5757e0906825a7.js","/hktramway-client-demo/_next/static/chunks/1fc7027d976a3d95.js","/hktramway-client-demo/_next/static/chunks/5f14956a42ad600f.js"],"default"]
+0:{"buildId":"i9tIU0vK6RnKq5hbdnqrw","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
