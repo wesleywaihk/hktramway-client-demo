@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[34292,["/hktramway-client-demo/_next/static/chunks/b52575a9ab225f4a.js","/hktramway-client-demo/_next/static/chunks/abf1b667cc91e0e6.js","/hktramway-client-demo/_next/static/chunks/fe33973ebfe44b2e.js","/hktramway-client-demo/_next/static/chunks/5f14956a42ad600f.js"],"default"]
+2:I[34292,["/hktramway-client-demo/_next/static/chunks/b52575a9ab225f4a.js","/hktramway-client-demo/_next/static/chunks/abf1b667cc91e0e6.js","/hktramway-client-demo/_next/static/chunks/fdbb67dea3a4ba81.js","/hktramway-client-demo/_next/static/chunks/5f14956a42ad600f.js"],"default"]
 3:I[15592,["/hktramway-client-demo/_next/static/chunks/b0d7ef8cb4246c0c.js","/hktramway-client-demo/_next/static/chunks/6b5757e0906825a7.js"],"default"]
 4:I[10124,["/hktramway-client-demo/_next/static/chunks/b0d7ef8cb4246c0c.js","/hktramway-client-demo/_next/static/chunks/6b5757e0906825a7.js"],"default"]
-0:{"buildId":"Ox-U6lsvF55k2qzQoN3VU","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"locale":"zh-CN","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"_deEKm5LPkY-oWgp_s-Aj","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"locale":"zh-CN","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]]}],"loading":null,"isPartial":false}
